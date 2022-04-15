@@ -1,0 +1,15 @@
+{
+    "name": "keerizee/todoproj",
+    "autoload": {
+        "psr-4": {
+            "main\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "keerize",
+            "email": "keerizee@gmail.com"
+        }
+    ],
+    "require": {}
+}
